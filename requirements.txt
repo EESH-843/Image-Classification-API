@@ -4,7 +4,7 @@ pymongo
 bcrypt
 numpy
 tensorflow 
-requests 3 0.0.0
+requests 
 subprocess
 json
 /home/adminuser/venv/bin/python -m pip install --upgrade pip
