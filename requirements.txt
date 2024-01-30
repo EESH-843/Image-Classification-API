@@ -4,6 +4,6 @@ pymongo
 bcrypt
 numpy
 tensorflow 
-requests
+requests3 0.0.0
 subprocess
 json
